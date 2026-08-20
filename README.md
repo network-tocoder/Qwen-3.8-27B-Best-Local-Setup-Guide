@@ -13,7 +13,7 @@ Run **Qwen 3.8 27B** locally with the best settings for speed, quality, and comp
 
 ## 🎬 Watch the Video First
 
-[![WATCH THE FULL VIDEO](https://img.shields.io/badge/▶%20WATCH%20THE%20FULL%20VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK)
+[![WATCH THE FULL VIDEO](https://img.shields.io/badge/▶%20WATCH%20THE%20FULL%20VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cxCiOCfL7PE)
 
 ### 🧪 Qwen 3.8 27B — Best Local Settings (Complete Guide)
 
